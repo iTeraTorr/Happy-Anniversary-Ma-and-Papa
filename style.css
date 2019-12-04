@@ -41,3 +41,34 @@ margin: 0 auto;
   opacity: 0.5;
   height: 100vh;
 } */
+
+@media screen and (max-width:980px)
+{
+  .section h1{
+    width:80%;
+    font-size: 60px;
+    object-fit: cover;
+  }
+ .video-container{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left:40px;
+   margin-right:40px;
+ }
+
+ .video-container video{
+   width:80%;
+   height:60%;
+   object-fit: cover;
+ }
+}
+
+
+@media screen and (max-width:732px)
+{
+  .section h1{
+    width:80%;
+    font-size: 40px;
+    object-fit: cover;
+  }
+}

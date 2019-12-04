@@ -68,7 +68,7 @@ margin: 0 auto;
 {
   .section h1{
     width:80%;
-    font-size: 30px;
+    font-size: 20px;
     object-fit: cover;
   }
 }

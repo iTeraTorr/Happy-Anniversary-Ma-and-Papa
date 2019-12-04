@@ -46,7 +46,7 @@ margin: 0 auto;
 {
   .section h1{
     width:80%;
-    font-size: 45px;
+    font-size: 60px;
     object-fit: cover;
   }
  .video-container{
@@ -62,4 +62,10 @@ margin: 0 auto;
    object-fit: cover;
  }
 }
+
+@media screen and (max-width:480px)
+{
+    width:80%;
+    font-size: 40px;
+    object-fit: cover;
 }

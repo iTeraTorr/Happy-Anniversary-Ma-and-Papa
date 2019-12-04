@@ -64,11 +64,11 @@ margin: 0 auto;
 }
 
 
-@media screen and (max-width:732px)
+@media screen and (max-width:480px)
 {
   .section h1{
     width:80%;
-    font-size: 40px;
+    font-size: 30px;
     object-fit: cover;
   }
 }
